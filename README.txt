@@ -1,3 +1,5 @@
+This portfolio website is no longer being updated - source code for my new portfolio website is at https://github.com/lele-mathis/portfolio-app 
+
 Portfolio Website using the free template Phantom by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
